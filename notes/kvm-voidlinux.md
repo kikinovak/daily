@@ -1,5 +1,10 @@
 # Virtualisation KVM sous Void Linux
 
+*Écrit le 14 décembre 2024*
+
+
+## Installation
+
 Installer QEMU :
 
 ```
@@ -18,6 +23,9 @@ Installer Virtual Machine Manager :
 # xbps-install virt-manager
 ```
 
+
+## Configuration
+
 Activer les services :
 
 ```
@@ -33,6 +41,7 @@ Ajouter l'utilisateur au groupe système :
 ```
 # usermod -aG libvirt kikinovak
 ```
+
 
 ## Mise en place d'un bridge
 
