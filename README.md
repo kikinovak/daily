@@ -7,3 +7,5 @@
 - [Docker sous Void Linux](notes/docker-voidlinux.md)
 
 - [VirtualBox sous Void Linux](notes/virtualbox-voidlinux.md)
+
+- [Void Linux - Installation du système de base](notes/voidlinux-install.md)
