@@ -9,3 +9,5 @@
 - [VirtualBox sous Void Linux](notes/virtualbox-voidlinux.md)
 
 - [Void Linux - Installation du système de base](notes/voidlinux-install.md)
+
+- [Cartes NVidia sous Rocky Linux](notes/nvidia-rockylinux.md)
