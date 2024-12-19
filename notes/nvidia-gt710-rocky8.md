@@ -36,16 +36,26 @@ GRUB_DISTRIBUTOR="$(sed 's, release .*$,,g' /etc/system-release)"
 GRUB_CMDLINE_LINUX="rd.driver.blacklist=nouveau \
                     modprobe.blacklist=nouveau \
                     nvidia-drm.modeset=1 \
-                    quiet vga=791 mitigations=off"
+                    quiet vga=791 mitigations=off \
+                    loglevel=3"
 GRUB_DISABLE_RECOVERY="true"
 GRUB_ENABLE_BLSCFG=true
 ```
 
-Prendre en compte les modifications :
+Prendre en compte les modifications sur un système BIOS Legacy :
 
 ```
 # grub2-mkconfig -o /boot/grub2/grub.cfg
 Generating grub configuration file ...
+done
+```
+
+Sur un système UEFI :
+
+```
+# grub2-mkconfig -o /boot/efi/EFI/rocky/grub.cfg
+Generating grub configuration file ...
+Adding boot menu entry for EFI firmware configuration
 done
 ```
 
