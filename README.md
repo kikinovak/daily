@@ -10,8 +10,6 @@
 
 - [Void Linux - Installation du système de base](notes/voidlinux-install.md)
 
-- [Cartes NVidia sous Rocky Linux](notes/nvidia-rockylinux.md)
-
 - [Locale système sous Rocky Linux 9](notes/locale-rocky9.md)
 
 - [Paramétrage de GRUB sous Rocky Linux 9](notes/grub-rocky9.md)
