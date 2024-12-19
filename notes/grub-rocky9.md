@@ -26,3 +26,9 @@ qui figurent dans `/boot/loader/entries/` (une par *kernel* installé) :
 > Notons également que la commande pour mettre à jour la configuration sur un
 > système UEFI est la même que sur un système avec un BIOS Legacy.
 
+Et pour afficher les paramètres qu'on a effectivement utilisés pour démarrer :
+
+```
+# cat /proc/cmdline
+```
+
