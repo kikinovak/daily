@@ -18,5 +18,7 @@
 
 - [Carte NVidia GTX 1650 sous Rocky Linux 8](notes/nvidia-gtx1650-rocky8.md)
 
+- [Carte NVidia GT 710 sous Rocky Linux 9](notes/nvidia-gt710-rocky9.md)
+
 - [Carte NVidia GTX 1650 sous Rocky Linux 9](notes/nvidia-gtx1650-rocky9.md)
 
