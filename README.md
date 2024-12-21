@@ -22,3 +22,4 @@
 
 - [Carte NVidia GTX 1650 sous Rocky Linux 9](notes/nvidia-gtx1650-rocky9.md)
 
+- [Désactiver l'affichage des utilisateurs dans GDM](notes/gdm-userlist.md)
