@@ -25,3 +25,5 @@
 - [Désactiver l'affichage des utilisateurs dans GDM](notes/gdm-userlist.md)
 
 - [uBlock Origin vs. Youtube](notes/ublock-youtube.md)
+
+- [GDM et KDE sous Rocky Linux](notes/gdm-kde-rocky.md)
