@@ -25,3 +25,5 @@
 - [uBlock Origin vs. Youtube](notes/ublock-youtube.md)
 
 - [GDM et KDE sous Rocky Linux](notes/gdm-kde-rocky.md)
+
+- [Conky avec KDE sous Rocky Linux](notes/conky-kde-rockylinux.md)
