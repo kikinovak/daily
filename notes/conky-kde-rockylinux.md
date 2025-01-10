@@ -19,6 +19,6 @@ Peaufiner la configuration dans `/etc/conky/conky.conf`.
 Définir le lancement automatique de Conky :
 
 ```
-# cp /usr/share/applications/conky.conf /etc/xdg/autostart/
+# cp /usr/share/applications/conky.desktop /etc/xdg/autostart/
 ```
 
