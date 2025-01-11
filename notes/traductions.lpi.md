@@ -10,7 +10,9 @@ Se connecter à la plateforme GitLab du *Linux Professional Institute* :
 
 Afficher le clé SSH publique :
 
+```
 $ cat ~/.ssh/id_rsa.pub
+```
 
 Importer la clé SSH sur la plateforme : **Preferences** > **SSH Keys**
 
@@ -47,4 +49,5 @@ Depuis la version 6.0 il faut paramètrer OmegaT : **Options** >
 - [ ] Tenter de remplacer les nombres des correspondances
 
 - [ ] Autoriser une traduction identique à la source
+
 
