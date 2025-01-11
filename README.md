@@ -27,3 +27,5 @@
 - [GDM et KDE sous Rocky Linux](notes/gdm-kde-rocky.md)
 
 - [Conky avec KDE sous Rocky Linux](notes/conky-kde-rockylinux.md)
+
+- [Traductions LPI](notes/traductions.lpi.md)
