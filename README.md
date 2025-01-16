@@ -29,3 +29,5 @@
 - [Conky avec KDE sous Rocky Linux](notes/conky-kde-rockylinux.md)
 
 - [Traductions LPI](notes/traductions.lpi.md)
+
+- [Mettre à jour /e/OS manuellement](notes/eos-update.md)
