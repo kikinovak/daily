@@ -33,3 +33,5 @@
 - [Mettre à jour /e/OS manuellement](notes/eos-update.md)
 
 - [Configuration initiale de KeePassXC](notes/keepassxc.md)
+
+- [HPLIP sous Rocky Linux 9](notes/hplip-rocky9.md)
