@@ -31,3 +31,5 @@
 - [Traductions LPI](notes/traductions.lpi.md)
 
 - [Mettre à jour /e/OS manuellement](notes/eos-update.md)
+
+- [Configuration initiale de KeePassXC](notes/keepassxc.md)
