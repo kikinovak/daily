@@ -35,3 +35,5 @@
 - [Configuration initiale de KeePassXC](notes/keepassxc.md)
 
 - [HPLIP sous Rocky Linux 9](notes/hplip-rocky9.md)
+
+- [Utiliser Teams sous Linux](notes/teams.md)
