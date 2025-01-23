@@ -48,7 +48,7 @@ mkdir: created directory '/srv/e/ccache'
 Démarrer le *build* :
 
 ```
-$ docker run \
+$ docker run --rm \
   -v "/srv/e/src:/srv/src" \
   -v "/srv/e/zips:/srv/zips" \
   -v "/srv/e/logs:/srv/logs" \
