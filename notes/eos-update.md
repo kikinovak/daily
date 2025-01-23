@@ -5,7 +5,7 @@
 Télécharger le fichier d'installation personnalisé :
 
 ```
-$ wget -c http://www.microlinux.fr/download/e-2.3-r-20241230-UNOFFICIAL-a5y17lte.zip
+$ wget -c https://www.microlinux.fr/download/e-2.3-r-20241230-UNOFFICIAL-a5y17lte.zip
 ```
 
 Relier le téléphone au PC avec un câble USB.
