@@ -37,3 +37,5 @@
 - [HPLIP sous Rocky Linux 9](notes/hplip-rocky9.md)
 
 - [Utiliser Teams sous Linux](notes/teams.md)
+
+- [Compiler /e/OS depuis les sources](notes/compiler-eos.md)
