@@ -39,3 +39,5 @@
 - [Utiliser Teams sous Linux](notes/teams.md)
 
 - [Compiler /e/OS depuis les sources](notes/compiler-eos.md)
+
+- [Mapper une tablette Wacom pour un seul moniteur](notes/wacom-monitor.md)
