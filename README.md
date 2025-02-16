@@ -41,3 +41,5 @@
 - [Compiler /e/OS depuis les sources](notes/compiler-eos.md)
 
 - [Mapper une tablette Wacom pour un seul moniteur](notes/wacom-monitor.md)
+
+- [Vagrant et KVM sous Rocky Linux 9](notes/vagrant-kvm-rocky9.md)
